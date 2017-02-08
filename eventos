@@ -1,0 +1,29 @@
+<h1>Eventos y Actividades</h1>
+
+<p>En Edge Cowork hacemos eventos para fomentar y apoyar un ecosistema de innovación, donde emprendedores, startups y empresas pueden participar de charlas informativas, lanzamientos importantes, talleres de educación y capacitación como también algunas actividades para alegrar la vida.</p>
+
+<h2>¿Interesado en hacer un evento en Edge? </h2>
+
+<p>Edge cuenta con dos espacios amplios para hacer eventos entre 30 y 50 personas en las ubicaciones de Bellavista y Ochagavía. Nuestros espacios cuentan con todos los equipos que necesitas para hacer presentaciones, con sistemas de sonido, micrófonos y audiovisual. </p>
+
+<form>Solicita un espacio</form>
+<input type="text" name="Nombre">
+<input type="text" name="correo">
+<input type="text" name="lugar">
+<input type="text" name="Teléfono">
+<input type="calendar" name="fecha">
+
+Drop down menu: tipo de evento
+Charla o meetup
+Lanzamiento o Actividad empresa
+Taller, clase o capacitación
+Actividad cultural
+
+<input type="text" name="Cuéntanos qué te gustaría hacer">
+
+<button>Enviar</button>
+
+Response message
+Muchas gracias por enviarnos esta información. Nuestros community manager “nombre de community manager” se pondrá en contacto contigo para apoyarte en el evento que quieras organizar. 
+
+Use Eventbrite API, to post events. 
